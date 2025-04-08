@@ -1,3 +1,4 @@
+![tic tac toe](https://github.com/user-attachments/assets/98901a3b-0e57-459b-b7b7-063acfff0f9a)
 % Define winning positions
 win(Player, Board) :-
     RowWin = [Player, Player, Player],
